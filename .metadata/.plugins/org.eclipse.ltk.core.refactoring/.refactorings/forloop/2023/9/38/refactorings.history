@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;forloop.ForLoops.java&apos; to &apos;Strings.java&apos;&#x0A;- Original project: &apos;forloop&apos;&#x0A;- Original element: &apos;forloop.ForLoops.java&apos;&#x0A;- Renamed element: &apos;forloop.Strings.java&apos;" description="Rename compilation unit &apos;ForLoops.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;forloop{ForLoops.java" name="Strings.java" references="false" stamp="1695059972920" version="1.0"/>
+</session>

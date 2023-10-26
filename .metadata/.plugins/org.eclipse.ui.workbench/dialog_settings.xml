@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID" value="org.eclipse.ui.wizards.export.ZipFile"/>
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.m2e.core.wizards.Maven2ImportWizard"/>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.eclipse.jst.j2ee.internal"/>
+			<item value="org.eclipse.m2e"/>
+			<item value="org.eclipse.jst.ws.consumption.ui.wsimport.category"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="ZipFileExportWizard">
+		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
+		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
+		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="/Users/kevinstradtman/Desktop/lab/computer_programming_1/arrayprinter_StradtmanKevin.zip"/>
+			<item value="/Users/kevinstradtman/Desktop/midterm-KevinStradtman.zip"/>
+			<item value="/Users/kevinstradtman/Desktop/rFequencyVowelCount-KevinStradtman.zip"/>
+			<item value="/Users/kevinstradtman/Desktop/repeat-string-KevinStradtman.zip"/>
+			<item value="/Users/kevinstradtman/Desktop/xsandys-KevinStradtman.zip"/>
+			<item value="/Users/kevinstradtman/Desktop/Palindrome-KevinStradtman.zip"/>
+			<item value="/Users/kevinstradtman/Desktop/EvenNumbers-KevinStradtman.zip"/>
+			<item value="/Users/kevinstradtman/Desktop/IntegerFactors-KevinStradtman.zip"/>
+			<item value="/Users/kevinstradtman/Desktop/Tornado-KevinStradtman.zip"/>
+			<item value="/Users/kevinstradtman/Desktop/HeadsOrTails-KevinStradtman.zip"/>
+			<item value="/Users/kevinstradtman/Desktop/CardNotation-KevinStradtman.zip"/>
+			<item value="/Users/kevinstradtman/Desktop/NumberChecker-KevinStradtman.zip"/>
+			<item value="/Users/kevinstradtman/Desktop/assignment_2_KevinStradtman.zip"/>
+			<item value="/Volumes/KevinsStorage/kevin-stradtman-paper-lab.zip"/>
+			<item value="/Volumes/KevinsStorage/kevin-stradtman-assignment-1.zip"/>
+			<item value="hello-Kevin-Stradtman-Assignment-1.zip"/>
+		</list>
+	</section>
+	<section name="ZipFileImportWizard">
+		<item key="WizardZipFileResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="false"/>
+		<list key="WizardZipFileResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="/Users/kevinstradtman/Downloads/palindrome-student.zip"/>
+		</list>
+	</section>
+</section>

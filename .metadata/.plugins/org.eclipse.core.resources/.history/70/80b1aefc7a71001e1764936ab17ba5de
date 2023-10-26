@@ -1,0 +1,33 @@
+package com.arrayprinter;
+
+public class ArrayPrinter {
+/*
+ * 
+ * Write a program that initializes an array with ten random integers between 
+  (0 and 100 inclusive) and then prints four lines of output, containing:
+ * Every element at an even index
+ * Every even element 
+ * All elements in reverse order
+ * Only the first and last element
+ * 
+ * */
+	public static final int LENGTH = 10;
+	public static void main(String[] args) {
+		printEvenIndexValues(randomArray());
+	}
+	public static int[] randomArray() {
+		int[] arr = new int[LENGTH];
+		for(int i = 0; i < arr.length; i++) {
+			arr[i] = (int)(Math.random() * 101);
+		}
+		return arr;
+	}
+	
+	public static void printEvenIndexValues(int[] arr) {
+		System.out.print("Even indexes: ");
+		for(int i = 0; i < arr.length; i += 2) {
+			System.out.print(arr[i] + " ");
+		}
+	}
+
+}

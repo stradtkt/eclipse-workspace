@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;zybook.Main.java&apos; to &apos;DoubleInvestment.java&apos;&#x0A;- Original project: &apos;zybook&apos;&#x0A;- Original element: &apos;zybook.Main.java&apos;&#x0A;- Renamed element: &apos;zybook.DoubleInvestment.java&apos;" description="Rename compilation unit &apos;Main.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;zybook{Main.java" name="DoubleInvestment.java" references="false" stamp="1694516599365" version="1.0"/>
+</session>
