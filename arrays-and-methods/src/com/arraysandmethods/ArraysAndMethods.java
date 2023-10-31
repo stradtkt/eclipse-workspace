@@ -9,6 +9,9 @@ public class ArraysAndMethods {
 		int[] randomFilledArray = new int[10];
 		System.out.println(Arrays.toString(randomFilledArray));
 		fillWithRandomValues(randomFilledArray);
+		System.out.println(Arrays.toString(randomFilledArray));
+		double average = computeAverage(randomFilledArray);
+		System.out.println("Average=" + average);
 	}
 
 	private static void fillWithRandomValues(int[] randomFilledArray) {
@@ -16,6 +19,14 @@ public class ArraysAndMethods {
 			int nextRandom = (int)(Math.random() * 101);
 			randomFilledArray[i] = nextRandom;
 		}
+	}
+	
+	private static double computeAverage(int[] arrayToAverage) {
+		int sum = 0;
+		for(int num : arrayToAverage) {
+			sum += num;
+		}
+		return (sum / arrayToAverage.length);
 	}
 
 }
